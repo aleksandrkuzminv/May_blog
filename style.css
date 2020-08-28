@@ -1,0 +1,55 @@
+.social .facebook a:before{content:"\f230"}
+.social .facebook-f a:before{content:"\f09a"}
+.social .twitter a:before{content:"\f099"}
+.social .gplus a:before{content:"\f0d5"}
+.social .rss a:before{content:"\f09e"}
+.social .youtube a:before{content:"\f16a"}
+.social .skype a:before{content:"\f17e"}
+.social .stumbleupon a:before{content:"\f1a4"}
+.social .tumblr a:before{content:"\f173"}
+.social .vk a:before{content:"\f189"}
+.social .stack-overflow a:before{content:"\f16c"}
+.social .github a:before{content:"\f09b"}
+.social .linkedin a:before{content:"\f0e1"}
+.social .dribbble a:before{content:"\f17d"}
+.social .soundcloud a:before{content:"\f1be"}
+.social .behance a:before{content:"\f1b4"}
+.social .digg a:before{content:"\f1a6"}
+.social .instagram a:before{content:"\f16d"}
+.social .pinterest a:before{content:"\f0d2"}
+.social .pinterest-p a:before{content:"\f231"}
+.social .twitch a:before{content:"\f1e8"}
+.social .delicious a:before{content:"\f1a5"}
+.social .codepen a:before{content:"\f1cb"}
+.social .reddit a:before{content:"\f1a1"}
+.social .whatsapp a:before{content:"\f232"}
+.social .snapchat a:before{content:"\f2ac"}
+.social .email a:before{content:"\f0e0"}
+.social .external-link a:before{content:"\f14c"}
+.social-text .facebook a:after,.social-text .facebook-f a:after{content:"Facebook"}
+.social-text .twitter a:after{content:"Twitter"}
+.social-text .gplus a:after{content:"Google +"}
+.social-text .rss a:after{content:"Rss"}
+.social-text .youtube a:after{content:"YouTube"}
+.social-text .skype a:after{content:"Skype"}
+.social-text .stumbleupon a:after{content:"StumbleUpon"}
+.social-text .tumblr a:after{content:"Tumblr"}
+.social-text .vk a:after{content:"VKontakte"}
+.social-text .stack-overflow a:after{content:"Stack Overflow"}
+.social-text .github a:after{content:"Github"}
+.social-text .linkedin a:after{content:"LinkedIn"}
+.social-text .dribbble a:after{content:"Dribbble"}
+.social-text .soundcloud a:after{content:"SoundCloud"}
+.social-text .behance a:after{content:"Behance"}
+.social-text .digg a:after{content:"Digg"}
+.social-text .instagram a:after{content:"Instagram"}
+.social-text .pinterest a:after,.social-text .pinterest-p a:after{content:"Pinterest"}
+.social-text .twitch a:after{content:"Twitch"}
+.social-text .delicious a:after{content:"Delicious"}
+.social-text .codepen a:after{content:"CodePen"}
+.social-text .flipboard a:after{content:"Flipboard"}
+.social-text .reddit a:after{content:"Reddit"}
+.social-text .whatsapp a:after{content:"Whatsapp"}
+.social-text .snapchat a:after{content:"Snapchat"}
+.social-text .email a:after{content:"Email"}
+.social-text .external-link a:after{content:"WebSite"}
